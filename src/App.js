@@ -1,11 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import FoodTypeTitle from './components/foodTypeTitle/foodTypeTitle';
-
+import FoodTileContainer from './components/foodTypeTitle/FoodTileContainer';
 function App() {
   return (
     <div className="App">
-      <FoodTypeTitle></FoodTypeTitle>
+      <FoodTileContainer></FoodTileContainer>
     </div>
   );
 }

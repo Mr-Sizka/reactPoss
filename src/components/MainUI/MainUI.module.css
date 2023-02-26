@@ -1,0 +1,17 @@
+.FoodContent{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.FoodCorner{
+    flex: 1;
+    margin: 0;
+    padding: 5px;
+}
+
+.left{
+    width: 70vw;
+    border: 1px solid palevioletred;
+}

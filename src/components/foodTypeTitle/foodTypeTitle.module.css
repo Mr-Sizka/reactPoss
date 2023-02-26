@@ -1,13 +1,14 @@
 .outer{
     background-color: aquamarine;
-    width: 8vw;
-    height: 8vw;
+    width: 10vw;
+    height: 10vw;
     border-radius: 10px;
     display: flex;
     position: relative;
     padding: 10px;
-    margin: 5px;
+    margin: 5px 10px;
     transition: all 400ms ease-in-out;
+    cursor: pointer;
 }
 
 /* .outer:hover{

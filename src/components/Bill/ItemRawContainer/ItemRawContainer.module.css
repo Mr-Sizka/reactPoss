@@ -22,7 +22,7 @@
     width: 90%;
     height: 100%;
     position: absolute;
-    background-image: -webkit-linear-gradient( rgba(31, 30, 30, 0) 80%,rgba(24, 24, 24, 0.308) 10%,rgb(17, 19, 21) );
+    background-image: -webkit-linear-gradient( rgba(70, 70, 70, 0) 80%,rgba(41, 44, 45, 0.308) 10%,rgb(17, 19, 21) );
     /* background-color:rgba(0, 0, 0, 0) ; */
     backdrop-filter: blur(px);
     margin-left: 20px;
